@@ -20,7 +20,8 @@ function node(args) {
 }
 
 function shell(command) {
-  return execa.shell(command, {
+  return execa(command, {
+    shell: true,
     cwd: testPath,
     reject: false
   })
