@@ -1,13 +1,15 @@
 {
-  "name": "esm",
+  "name": "@antongolub/esm",
   "version": "3.2.25",
   "description": "Tomorrow's ECMAScript modules today!",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": "commonjs, ecmascript, export, import, modules, node, require",
   "repository": "standard-things/esm",
   "license": "MIT",
   "author": "John-David Dalton <john.david.dalton@gmail.com>",
   "main": "esm.js",
-  "private": true,
   "runkitExample": "require = require(\"esm\")(module)\nrequire(\"lodash-es\")",
   "esm": true,
   "engines": {
