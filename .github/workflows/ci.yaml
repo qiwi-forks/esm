@@ -86,6 +86,14 @@ jobs:
         with:
           node-version: 14
 
+      - name: npm install
+        run: npm i
+
+      - name: Compile
+        run: |
+          npm build
+
+
       - name: Semantic Release
         uses: cycjimmy/semantic-release-action@v2
         with:
