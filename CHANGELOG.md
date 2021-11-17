@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/qiwi-forks/esm/compare/v1.0.0...v1.1.0) (2021-11-17)
+
+
+### Bug Fixes
+
+* **deps:** update deps, fix some vuls ([1c6b11e](https://github.com/qiwi-forks/esm/commit/1c6b11e384b94a04456fb557a9aa5ef5c99e616c))
+
+
+### Features
+
+* add `.cjs` ext to allowlist, handle `node:`-prefixed modules ([ce4346e](https://github.com/qiwi-forks/esm/commit/ce4346ef916ad5b25cb8e85480bd2b7db1baf2d2))
+
 # 1.0.0 (2021-04-13)
 
 
