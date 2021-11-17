@@ -1,6 +1,6 @@
 {
   "name": "@qiwi/esm",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "ESM fork with minor tunings for QIWI OSS",
   "publishConfig": {
     "access": "public"

@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/qiwi-forks/esm/compare/v1.1.0...v1.1.1) (2021-11-17)
+
+
+### Bug Fixes
+
+* improve `node:`-prefix handling ([1ddc36c](https://github.com/qiwi-forks/esm/commit/1ddc36c50dee95b30aeeaa3aa38a87e41b2986ad))
+
 # [1.1.0](https://github.com/qiwi-forks/esm/compare/v1.0.0...v1.1.0) (2021-11-17)
 
 
