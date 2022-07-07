@@ -9,7 +9,7 @@ const { PACKAGE_VERSION } = process.env
 const ESM = {
   PACKAGE_DIRNAME: null,
   PACKAGE_FILENAMES: null,
-  PACKAGE_PREFIX: encodeId("esm"),
+  PACKAGE_PREFIX: encodeId("@qiwi/esm"),
   PACKAGE_RANGE: PACKAGE_VERSION.match(/^[\d.]+/)[0],
   PACKAGE_VERSION,
   STACK_TRACE_LIMIT: 30
