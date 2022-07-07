@@ -10,5 +10,18 @@ Fork of [esm](https://github.com/standard-things/esm) with some useful patches:
 * supported `node:`-prefixed modules
 * bumped deps, fixed some vulnerabilities
 
+## Usage
+### CLI
+```shell
+node -r esm main.js
+```
+### JS API
+```js
+// Set options as a parameter, environment variable, or rc file.
+require = require("esm")(module/*, options*/)
+module.exports = require("./main.js")
+```
+https://github.com/standard-things/esm
+
 ## License
 [MIT](LICENSE)
