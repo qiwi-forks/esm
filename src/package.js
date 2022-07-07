@@ -563,9 +563,10 @@ function getInfo(dirPath, state) {
 function getRange(json, name) {
   if (has(json, name)) {
     const object = json[name]
+    const dep = "@qiwi/esm"
 
-    if (has(object, "esm")) {
-      return validRange(object.esm)
+    if (has(object, dep)) {
+      return validRange(object[dep])
     }
   }
 
