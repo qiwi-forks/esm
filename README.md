@@ -9,3 +9,6 @@ Fork of [esm](https://github.com/standard-things/esm) with some useful patches:
 * added `.cjs` to allowed extensions
 * supported `node:`-prefixed modules
 * bumped deps, fixed some vulnerabilities
+
+## License
+[MIT](LICENSE)
