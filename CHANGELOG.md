@@ -1,3 +1,8 @@
+## [1.1.3](https://github.com/qiwi-forks/esm/compare/v1.1.2...v1.1.3) (2022-07-07)
+
+### Fixes & improvements
+* docs: mention license ([32f755af](https://github.com/qiwi-forks/esm/commit/32f755af8c4a3afe123c9788f1d5711cebc2269e))
+
 ## [1.1.2](https://github.com/qiwi-forks/esm/compare/v1.1.1...v1.1.2) (2022-07-07)
 
 ### Fixes & improvements
