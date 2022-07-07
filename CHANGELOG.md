@@ -1,3 +1,8 @@
+## [1.1.4](https://github.com/qiwi-forks/esm/compare/v1.1.3...v1.1.4) (2022-07-07)
+
+### Fixes & improvements
+* perf: tech release ([4f9d4c5b](https://github.com/qiwi-forks/esm/commit/4f9d4c5bce1ba2d3b96c6b809e6761802bb4cb3f))
+
 ## [1.1.3](https://github.com/qiwi-forks/esm/compare/v1.1.2...v1.1.3) (2022-07-07)
 
 ### Fixes & improvements
