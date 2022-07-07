@@ -1,3 +1,8 @@
+## [1.1.8](https://github.com/qiwi-forks/esm/compare/v1.1.7...v1.1.8) (2022-07-07)
+
+### Fixes & improvements
+* docs: fix usage example ([57810adc](https://github.com/qiwi-forks/esm/commit/57810adc78050151b288a3bc95b519489e47e923))
+
 ## [1.1.7](https://github.com/qiwi-forks/esm/compare/v1.1.6...v1.1.7) (2022-07-07)
 
 ### Fixes & improvements
