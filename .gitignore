@@ -22,3 +22,12 @@
 /test/node_modules/symlink
 /test/vendor
 /docs
+
+# Creds
+*.asc
+*.key
+*.pem
+*.cert
+.npmrc
+.yarnrc
+.pmprc
