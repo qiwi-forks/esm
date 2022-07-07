@@ -1,3 +1,8 @@
+## [1.1.7](https://github.com/qiwi-forks/esm/compare/v1.1.6...v1.1.7) (2022-07-07)
+
+### Fixes & improvements
+* fix: fix `getRange` check ([a05e4864](https://github.com/qiwi-forks/esm/commit/a05e486473f56048ea951f235cf09c87a94a39c2))
+
 ## [1.1.6](https://github.com/qiwi-forks/esm/compare/v1.1.5...v1.1.6) (2022-07-07)
 
 ### Fixes & improvements
