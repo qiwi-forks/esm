@@ -1,3 +1,8 @@
+## [1.1.2](https://github.com/qiwi-forks/esm/compare/v1.1.1...v1.1.2) (2022-07-07)
+
+### Fixes & improvements
+* fix: fix pkg prefix ([3a86fd7c](https://github.com/qiwi-forks/esm/commit/3a86fd7c92cf5ad9d933797cc077b5b156ab996f))
+
 ## [1.1.1](https://github.com/qiwi-forks/esm/compare/v1.1.0...v1.1.1) (2021-11-17)
 
 
